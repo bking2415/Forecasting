@@ -11,4 +11,4 @@ Forecasting the monthly sales with LSTM in Python.
 3. Building the LSTM model & evaluation
 
 ## Instructions
-Run 'predictingSales.py' and outputs an interactive graph titled `salesPredictions.html`
+Run `predictingSales.py` and outputs an interactive graph titled `salesPredictions.html`
